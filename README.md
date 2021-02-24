@@ -21,8 +21,8 @@
 <img src="https://user-images.githubusercontent.com/79067558/108955670-ec427780-76b1-11eb-8221-7ec0802a8dbf.png" width="70%" height="70%"><br/>
 
 ## Models
-|Title|Contents|Explanation|From|
-|:------:|:---:|:------:|:--------:|
-|Data Name|concateText.py|concatenate texts, of course It's free to use which if u don't want, keep steady on your mind eheh(반드시 사용할 필요는 없습니다, 자유입니다)|My Brain(나의 머리)
-|Data Name|TextMaker.py|Sentence Generation model with LSTM(LSTM을 응용한 문장 생성)|My Brain(나의 머리)|
-|Data Name|RNNTextMaker.py|Sentence Generation model with RNN(RNN을 응용한 문장 생성)|My Brain(나의 머리)|
+|Title|Contents|Explanation|
+|:------:|:---:|:------:|
+|Data Name|concateText.py|concatenate texts, of course It's free to use which if u don't want, keep steady on your mind eheh(반드시 사용할 필요는 없습니다, 자유입니다)|
+|Data Name|TextMaker.py|Sentence Generation model with LSTM(LSTM을 응용한 문장 생성)|
+|Data Name|RNNTextMaker.py|Sentence Generation model with RNN(RNN을 응용한 문장 생성)|
